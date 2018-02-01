@@ -1,5 +1,5 @@
 {
-    "name": "ontanj/slackpayload",
+    "name": "ontanj/slack-payload",
     "description": "Extracts information from Slack payload",
     "license": "MIT",
     "authors": [
